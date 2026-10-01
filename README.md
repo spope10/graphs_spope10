@@ -53,9 +53,8 @@ Use dev for development and merge reviewed changes into main. The main branch mu
 
 ## Repository URL
 
-Planned URL for your GitHub repository: https://github.com/spope10/graphs_spope10
+https://github.com/spope10/graphs_spope10
 
-Create the public repository with this name and confirm its URL before submitting this README. Replace this paragraph with the confirmed URL for your GitHub repository.
 
 ## Credits
 
