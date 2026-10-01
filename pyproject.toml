@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "graphs_spope10"
+version = "0.1.0"
+description = "Dijkstra shortest-path graph library for CSC3020 Homework 4"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{name = "Soni Pope"}]
+
+[tool.setuptools.packages.find]
+where = ["src"]
